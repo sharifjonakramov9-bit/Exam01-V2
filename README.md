@@ -142,12 +142,12 @@
 
 **🧮 Vazifa:** 0–100 oralig‘idagi ballga qarab quyidagicha matnli baho bering:
 
-- [90, 100]: `"Ajoyib!"`
-- [80, 89]: `"Zo'r!"`
-- [70, 79]: `"Yaxshi!"`
-- [60, 69]: `"Qoniqarli"`
-- [0, 59]: `"Past baho"`
-- Aks holda: `"Noto‘g‘ri ball"`
+- baho[90, 100]: "Ajoyib!"
+- baho[80, 89]: "Zo'r!"
+- baho[70, 79]: "Yaxshi!"
+- baho[60, 69]: "Qoniqarli"
+- baho[0, 59]: "Past baho"
+- Aks holda: "Noto‘g‘ri ball"
 
 **📥 Kirish:** `91`\
 **📤 Chiqish:** `"Ajoyib!"`
