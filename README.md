@@ -1,177 +1,176 @@
-# Exam01 - Lessons[1-12]
+# Exam01-V2 - Lessons[1-12]
 
-### 🔹 1. Butun sonning kvadratini topish
+### 🔹 1. Butun sonning kubini topish
 
-**🧮 Vazifa:** Berilgan sonning kvadratini hisoblang.\
-**📥 Kirish:** `son = 3`\
-**📤 Chiqish:** `9`
-
----
-
-### 🔹 2. Ikki sonning yig‘indisini topish
-
-**🧮 Vazifa:** Ikki sonning yig'indisini hisoblang.\
-**📥 Kirish:** `a = 5`, `b = 7`\
-**📤 Chiqish:** `12`
+**🧮 Vazifa:** Berilgan sonning kubini hisoblang.
+**📥 Kirish:** `son = 4`
+**📤 Chiqish:** `64`
 
 ---
 
-### 🔹 3. Uchta sonning o‘rtachasini topish
+### 🔹 2. Ikki sonning ayirmasini topish
 
-**🧮 Vazifa:** Uchta sonning o'rtacha qiymatini hisoblang.\
-**📥 Kirish:** `a = 4`, `b = 9`, `c = 8`\
-**📤 Chiqish:** `7.0`
-
----
-
-### 🔹 4. Bo‘linmadan qoldiqni topish
-
-**🧮 Vazifa:** Tasavvur qiling siz tikuvchisiz. Sizda 17 matr mato bor va shu matodan ko'ylak tikishingiz kerak, bitta ko'ylak tikish uchun 4 metr mato kerak boladi. Sizdagi matodan imkoni boricha ko'p ko'ylak tiksangiz sizda qancha mato ortib qoladi.\
-**📥 Kirish:** `a = 17`, `b = 4`\
-**📤 Chiqish:** `1`
+**🧮 Vazifa:** Ikki sonning ayirmasini hisoblang.
+**📥 Kirish:** `a = 10.5`, `b = 3.2`
+**📤 Chiqish:** `7.3`
 
 ---
 
-### 🔹 5. Foydalanuvchi yoshini aniqlash (2025-yilga nisbatan)
+### 🔹 3. To‘rtta sonning o‘rtachasini topish
 
-**🧮 Vazifa:** Tug‘ilgan yilga qarab yoshni hisoblang.\
-**📥 Kirish:** `t_yil = 1995`\
+**🧮 Vazifa:** To‘rtta sonning o‘rtacha qiymatini hisoblang.
+**📥 Kirish:** `a = 5`, `b = 8`, `c = 7`, `d = 10`
+**📤 Chiqish:** `7.5`
+
+---
+
+### 🔹 4. To‘liq bo‘linadigan birliklarni hisoblash
+
+**🧮 Vazifa:** Sizda 23 ta olma bor, har bir savatchaga 5 ta olma sig‘adi. Savatchalarni to‘ldirganingizdan keyin nechta to‘la savat bo‘ladi?
+**📥 Kirish:** `a = 23`, `b = 5`
+**📤 Chiqish:** `4`
+
+---
+
+### 🔹 5. 2030-yilga nisbatan yoshni hisoblash
+
+**🧮 Vazifa:** Tug‘ilgan yilga qarab 2030-yilga nisbatan yoshni hisoblang.
+**📥 Kirish:** `t_yil = 2000`
 **📤 Chiqish:** `30`
 
 ---
 
-### 🔹 6. QQS bilan mahsulot narxini hisoblash (15%)
+### 🔹 6. QQS 12% bilan narxni hisoblash
 
-**🧮 Vazifa:** Narxga 15% QQS qo‘shib yakuniy narxni hisoblang.\
-**📥 Kirish:** `narx = 20000.0`\
-**📤 Chiqish:** `23000.0``
-
----
-
-### 🔹 7. Stringning birinchi 5 ta belgisini slicing orqali oling
-
-**🧮 Vazifa:** Stringning faqat birinchi 5 ta harfini ajrating.\
-**📥 Kirish:** `"Programming"`\
-**📤 Chiqish:** `"Progr"`
+**🧮 Vazifa:** Narxga 12% QQS qo‘shib yakuniy narxni hisoblang.
+**📥 Kirish:** `narx = 15000.0`
+**📤 Chiqish:** `16800.0`
 
 ---
 
-### 🔹 8. Kiritilgan so'z katta harflardan iboratmi?
+### 🔹 7. Stringning oxirgi 4 ta belgisini oling
 
-**🧮 Vazifa:** Kiritilgan so'zning barcha harflari katta harf ekanligini aniqlang.\
-**📥 Kirish:** `word = "ALO"`\
+**🧮 Vazifa:** Stringning faqat oxirgi 4 ta belgisini ajrating.
+**📥 Kirish:** `"Programming"`
+**📤 Chiqish:** `"ming"`
+
+---
+
+### 🔹 8. So‘z kichik harflardan iboratmi?
+
+**🧮 Vazifa:** Kiritilgan so‘zning barcha harflari kichik harf ekanligini aniqlang.
+**📥 Kirish:** `word = "hello"`
 **📤 Chiqish:** `True`
 
 ---
 
-### 🔹 9. f-string yordamida ism va yoshni birlashtiring
+### 🔹 9. f-string yordamida salomlashuv yaratish
 
-**🧮 Vazifa:** f-string orqali ism va yoshdan iborat gap tuzing.\
-**📥 Kirish:** `"Ali"`, `20`\
-**📤 Chiqish:** `My name is Ali and I am 20 years old.`
+**🧮 Vazifa:** f-string orqali ismni ishlatib salomlashuv jumlasi tuzing.
+**📥 Kirish:** `"Laylo"`
+**📤 Chiqish:** `Hello, Laylo!`
 
 ---
 
-### 🔹 10. Kod faqat raqamlardan iboratligini tekshirish
+### 🔹 10. Kod faqat harflardan iboratligini tekshiring
 
-**🧮 Vazifa:** String faqat raqamlardan iboratligini aniqlang.\
-**📥 Kirish:** `"2025"`\
+**🧮 Vazifa:** String faqat harflardan iboratligini aniqlang.
+**📥 Kirish:** `"HelloWorld"`
 **📤 Chiqish:** `True`
 
 ---
 
-### 🔹 11. Gapda nuqta (`.`) necha marta qatnashganini sanang
+### 🔹 11. Gapdagi vergul (`,`) sonini sanang
 
-**🧮 Vazifa:** Stringda nechta nuqta borligini sanang.\
-**📥 Kirish:** `"file.txt.2025.report.doc"`\
-**📤 Chiqish:** `4`
-
----
-
-### 🔹 12. So‘zning boshlanish pozitsiyasi (o'rni) ni topish
-
-**🧮 Vazifa:** Ma’lum bir so‘z matn ichida qayerdan boshlanishini toping.\
-**📥 Kirish:** `"Men Python dasturlash tilini o‘rganaman"`, `"Python"`\
-**📤 Chiqish:** `4`
+**🧮 Vazifa:** Berilgan matnda nechta vergul borligini aniqlang.
+**📥 Kirish:** `"a,b,c,d,e,f"`
+**📤 Chiqish:** `5`
 
 ---
 
-### 🔹 13. Tozalangan foydalanuvchi ismi
+### 🔹 12. So‘zning tugash pozitsiyasini topish
 
-**🧮 Vazifa:** Ismni bo‘sh joylardan tozalab, birinchi harfini katta harf qiling.\
-**📥 Kirish:** `"   ali  valiyev"`\
-**📤 Chiqish:** `Ali Valiyev`
-
----
-
-### 🔹 14. Document type aniqlash
-
-**🧮 Vazifa:** Fayl `.pdf`, `.docx` yoki `.txt` bilan tugashini tekshiring va uni anilovchi dastur yarating.\
-**📥 Kirish:** `"report.pdf"`\
-**📤 Chiqish:** `Fayl turi: pdf`
+**🧮 Vazifa:** Matndagi so‘zning tugash indeksini aniqlang.
+**📥 Kirish:** `"Men HTML va CSS o‘rganmoqdaman"`, `"CSS"`
+**📤 Chiqish:** `15`
 
 ---
 
-### 🔹 15. Bo‘linuvchanlikni tekshirish
+### 🔹 13. Tozalangan email manzili
 
-**🧮 Vazifa:** Kiritilgan sonning 2, 3 va 5 ga bo‘linishini aniqlang.\
-**📥 Kirish:** `30`\
+**🧮 Vazifa:** Email manzilidan bo‘sh joylarni olib tashlang va kichik harflarga o‘tkazing.
+**📥 Kirish:** `"  EXAMPLE@GMAIL.COM "`
+**📤 Chiqish:** `example@gmail.com`
+
+---
+
+### 🔹 14. Rasm fayli turini aniqlash
+
+**🧮 Vazifa:** Fayl `.jpg`, `.png` yoki `.svg` bilan tugashini aniqlang.
+**📥 Kirish:** `"logo.svg"`
+**📤 Chiqish:** `Fayl turi: svg`
+
+---
+
+### 🔹 15. 4 va 6 ga bo‘linishini tekshirish
+
+**🧮 Vazifa:** Kiritilgan sonning 4, 6 ga bo‘linishini aniqlang.
+**📥 Kirish:** `24`
 **📤 Chiqish:**
 
 ```
-30 soni 2 ga bo'linadi
-30 soni 3 ga bo'linadi
-30 soni 5 ga bo'linadi
+24 soni 4 ga bo'linadi
+24 soni 6 ga bo'linadi
 ```
 
 ---
 
-### 🔹 16. Yoshga bog‘liq chegirma
+### 🔹 16. Film chiptasiga chegirma
 
-**🧮 Vazifa:** Chipta narxi 100 000 so‘m. Yoshga qarab chegirma qo‘llang. Yosh kiritilganda aynan shu yoshdagi insonlar uchun chipta narxi qancha bo'lishi va qancha chegirma berilishini aniqlovchi dastur yarating.\
-- 7 yoshgacha (0-6): 50% chegirma
-- 7-17 yosh: 20% chegirma
-- 60 yoshdan katta: 30% chegirma
+**🧮 Vazifa:** Kino chiptasi 80 000 so‘m. Yoshga qarab chegirma aniqlansin.\\
 
-**📥 Kirish:** `5`\
-**📤 Chiqish:** `Yakuniy narx: 50 so'm (50% chegirma qo'llanildi)`
+* 5 yoshgacha: 60%
+* 6–12 yosh: 30%
+* 55 yoshdan katta: 40%
 
----
-
-### 🔹 17. Baholash tizimi
-
-**🧮 Vazifa:** 0–100 oralig‘idagi ballga qarab baho chiqaring. 
-
-✳️ Chegaralar:
-- [90, 100]: `"A (A'lo)"`
-- [80, 89]: `"B (Yaxshi)"`
-- [70, 79]: `"C (Qoniqarli)"`
-- [60, 69]: `"D (Qoniqarsiz)"`
-- [0, 59]: `"F (Yomon)"`
-- Aks xolatda: `"Ball 0-100 oralig'ida bo'lishi kerak!"`
-
-**📥 Kirish:** `85`\
-**📤 Chiqish:** `"B (Yaxshi)"`
+**📥 Kirish:** `10`
+**📤 Chiqish:** `Yakuniy narx: 56000.0 so'm (30% chegirma qo'llanildi)`
 
 ---
 
-### 🔹 18. Listdan eng katta va eng kichik elementni topish
+### 🔹 17. Baholash (harfli emas, matnli)
 
-🧮 Vazifa: Foydalanuvchidan 6 ta sonlardan iborat list oling. Shu ro‘yxatdagi eng katta sonni aniqlang.\
-📥 Kirish: `sonlar = [45, 12, 78, 34, 89, 23]`\
-📤 Chiqish: `Eng katta son: 89, Eng kichik son: 12`
+**🧮 Vazifa:** 0–100 oralig‘idagi ballga qarab quyidagicha matnli baho bering:
+
+* [90, 100]: `"Ajoyib!"`
+* [80, 89]: `"Zo'r!"`
+* [70, 79]: `"Yaxshi!"`
+* [60, 69]: `"Qoniqarli"`
+* \[0, 59]: `"Past baho"`
+* Aks holda: `"Noto‘g‘ri ball"`
+
+**📥 Kirish:** `91`
+**📤 Chiqish:** `"Ajoyib!"`
 
 ---
 
-### 🔹 19. Listdagi unli harflarni sanang
+### 🔹 18. Listdagi juft va toq sonlar soni
 
-**🧮 Vazifa:** Harflardan iborat list berilgan. Listdagi `a, e, i, o, u` unli harflar sonini hisoblang.
-**📥 Kirish:** `letters = ["h", "e", "l", "l", "o", "w", "O", "r", "l", "d"]`\
+**🧮 Vazifa:** Listdagi juft va toq sonlar sonini hisoblang.
+**📥 Kirish:** `sonlar = [10, 13, 15, 8, 22, 7]`
+**📤 Chiqish:** `Juft: 3, Toq: 3`
+
+---
+
+### 🔹 19. Listdagi undosh harflarni sanash
+
+**🧮 Vazifa:** Listdagi undosh harflar (`b, c, d, f,...`) sonini hisoblang.
+**📥 Kirish:** `letters = ["s", "a", "l", "A", "m"]`
 **📤 Chiqish:** `3`
 
 ---
 
-### 🔹 20. To‘g‘ri javob kiritilmaguncha davom et
+### 🔹 20. To‘g‘ri raqam kiritilmaguncha davom et
 
-**🧮 Vazifa:** "O‘zbekiston poytaxti nima?" degan savolga "Toshkent" deb to‘g‘ri javob berilmaguncha so‘rashni davom ettiring. Javobdagi belgilar case-sensitive bo'lmasin ya'ni katta har bilan kichik harf bir xil qaralsin `"a"` = `"A"`.\
-**📤 Chiqish:** `"To‘g‘ri!"` (to‘g‘ri javob berilganda)
+**🧮 Vazifa:** Savol: "Eng katta bir xonali son nima?" To‘g‘ri javob `9` bo‘lsa, foydalanuvchi shu sonni kiritmaguncha so‘rashni davom ettiring.
+**📤 Chiqish:** `"To‘g‘ri!"` (to‘g‘ri javob kiritilganda)
